@@ -1,4 +1,7 @@
 # Block 32 - ACME Ice Cream Shop
+
+See my deployed site [here](https://jaybrdy-acme-icecream.onrender.com/api/flavors)! 
+
 Used curl tool in the terminal to test. The following below are what I used to test my code...
 
 ## GET /api/flavors 
